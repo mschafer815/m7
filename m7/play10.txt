@@ -1,195 +1,409 @@
                                     * * * Talk of the Quad * * *                                                                   * * * written by A Little Bird * * *
-                                EXT. FARELY - NIGHT                                                                                 
+                                EXT. FARELY - MORNING                                                                               
 
 
 Scene Description: 
-Buster wants to figure out Billy Joe Bob's Hobby.
-Billy Joe Bob wants to figure out Buster's Love Interest.
+Billy Joe Bob wants to figure out Ro's Friends.
+Ro wants to figure out Billy Joe Bob's Hobby.
 
-
-Buster:
-	Hi there. I am so glad to see you today.
 
 Billy Joe Bob:
 	Hi there. I am so glad to see you today.
 
-Buster:
+Ro:
+	Hi there. I am so glad to see you today.
+
+Billy Joe Bob:
+	Who are you friends with?
+
+Ro:
+	Anika
+
+Ro:
+	OMG calc today was so hard!
+
+Billy Joe Bob:
+	Right.
+
+Ro:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Billy Joe Bob:
+	Fascinating.
+
+Ro:
 	Have you ever scene the lights shine that bright? This is marvaleous.
 
 Billy Joe Bob:
-	Fascinating!
+	Wild.
 
-Buster:
-	I think I'm going to join the BOC.
-
-Billy Joe Bob:
-	Fascinating!
-
-Buster:
+Ro:
 	What is a hobby of yours?
 
 Billy Joe Bob:
-	cooking
+	studying
 
 Billy Joe Bob:
-	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
+	See you super soon!
 
-Buster:
-	I see!
-
-Billy Joe Bob:
-	OMG calc today was so hard!
-
-Buster:
-	Wild!
-
-Billy Joe Bob:
-	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
-
-Buster:
-	Well!
-
-Billy Joe Bob:
-	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
-
-Buster:
-	Well!
-
-Billy Joe Bob:
-	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
-
-Buster:
-	Okay!
-
-Billy Joe Bob:
-	Who do you like-like?
-
-Buster:
-	Maria
-
-Buster:
-	Thanks.
-
-Billy Joe Bob:
-	Okay. Till morrow.
+Ro:
+	Have a great day!
 
 
 
 
-EXT. MAINE STREET - AFTERNOON                                                                       
+EXT. THE QUAD - AFTERNOON                                                                           
 
 
 Scene Description: 
-Ellie wants to figure out Hannah's Hometown.
-Hannah wants to figure out Ellie's Friends.
+Babsie wants to figure out Sadie's Love Interest.
+Sadie wants to figure out Babsie's Friends.
 
 
-Ellie:
+Babsie:
 	What's up?
 
-Hannah:
-	Hi there. I am so glad to see you today. I'm just the bestest!
+Sadie:
+	What's up? I'm not bad.
 
-Ellie:
-	Where are you from?
+Babsie:
+	Who do you like-like?
 
-Hannah:
+Sadie:
 	
 
-Hannah:
-	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
-
-Ellie:
-	Yeah...
-
-Hannah:
-	Have you ever scene the lights shine that bright? This is marvaleous.
-
-Ellie:
-	Yeah...
-
-Hannah:
-	OMG calc today was so hard!
-
-Ellie:
-	Hmm...
-
-Hannah:
-	OMG calc today was so hard!
-
-Ellie:
-	Yeah...
-
-Hannah:
-	God the squirrels just get braver every year.
-
-Ellie:
-	Yeah.
-
-Hannah:
-	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
-
-Ellie:
-	Huh...
-
-Hannah:
+Sadie:
 	Who are you friends with?
 
-Ellie:
-	Marcos
+Babsie:
+	 What a time to be alive.
 
-Ellie:
-	See you soon.
+Babsie:
+	Okay. Till morrow.
 
-Hannah:
-	See you soon.
-
-
+Sadie:
+	Thanks.
 
 
-EXT. FARELY - NIGHT                                                                                 
+
+
+INT. HL BASEMENT - AFTERNOON                                                                        
 
 
 Scene Description: 
-Ellie wants to figure out Sadie's Hometown.
-Sadie wants to figure out Ellie's Friends.
+Marcos wants to figure out Hercules's Friends.
+Hercules wants to figure out Marcos's Friends.
+
+
+Marcos:
+	What's up?
+
+Hercules:
+	Hey! How are you doing? I am so fantastic. I'm fantastic!
+
+Marcos:
+	Who are you friends with?
+
+Hercules:
+	Brad
+
+Hercules:
+	I just need you to know I am strictly a Moulton light room person.
+
+Marcos:
+	Hmm.
+
+Hercules:
+	Who are you friends with?
+
+Marcos:
+	 This is a lot to handle.
+
+Marcos:
+	Thanks.
+
+Hercules:
+	See you super soon!
+
+
+
+
+INT. SEARLES 224 - NIGHT                                                                            
+
+
+Scene Description: 
+Ellie wants to figure out Hercules's Hobby.
+Hercules wants to figure out Ellie's Hometown.
 
 
 Ellie:
 	Hi there. I am so glad to see you today.
 
-Sadie:
-	Hi there. I am so glad to see you today.
+Hercules:
+	Hey! How are you doing? I am so fantastic.
+
+Ellie:
+	OMG calc today was so hard!
+
+Hercules:
+	Wild!
+
+Ellie:
+	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
+
+Hercules:
+	Okay!
+
+Ellie:
+	I think I'm going to join the BOC.
+
+Hercules:
+	Well!
+
+Ellie:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Hercules:
+	Right!
+
+Ellie:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Hercules:
+	Okay!
+
+Ellie:
+	It's so cold out!
+
+Hercules:
+	Wild!
 
 Ellie:
 	I just need you to know I am strictly a Moulton light room person.
 
-Sadie:
+Hercules:
+	I see.
+
+Ellie:
+	I think I'm going to join the BOC.
+
+Hercules:
 	Okay!
 
 Ellie:
-	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
+	I just need you to know I am strictly a Moulton light room person.
 
-Sadie:
-	I see!
+Hercules:
+	Fascinating!
 
 Ellie:
+	Have you ever scene the lights shine that bright? This is marvaleous.
+
+Hercules:
+	Fascinating!
+
+Ellie:
+	What is a hobby of yours?
+
+Hercules:
+	
+
+Hercules:
+	I think I'm going to join the BOC.
+
+Ellie:
+	Fascinating!
+
+Hercules:
+	I think I'm going to join the BOC.
+
+Ellie:
+	Wild!
+
+Hercules:
+	Have you ever scene the lights shine that bright? This is marvaleous.
+
+Ellie:
+	Wild.
+
+Hercules:
+	I just need you to know I am strictly a Moulton light room person.
+
+Ellie:
+	Wild!
+
+Hercules:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Ellie:
+	Wild.
+
+Hercules:
+	I think I'm going to join the BOC.
+
+Ellie:
+	Well!
+
+Hercules:
+	It's so cold out!
+
+Ellie:
+	Right!
+
+Hercules:
+	Have you ever scene the lights shine that bright? This is marvaleous.
+
+Ellie:
+	Well!
+
+Hercules:
+	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
+
+Ellie:
+	Well!
+
+Hercules:
 	Where are you from?
 
-Sadie:
-	Paris
+Ellie:
+	Brunswick
 
-Sadie:
+Ellie:
+	Have a great day!
+
+Hercules:
+	Have a great day!
+
+
+
+
+INT. LADD HOUSE - AFTERNOON                                                                         
+
+
+Scene Description: 
+Hannah wants to figure out Ro's Hobby.
+Ro wants to figure out Hannah's Love Interest.
+
+
+Hannah:
+	What's up?
+
+Ro:
+	Hi. I'm so so.
+
+Hannah:
+	What is a hobby of yours?
+
+Ro:
+	
+
+Ro:
+	Who do you like-like?
+
+Hannah:
+	Maria
+
+Hannah:
+	Thanks.
+
+Ro:
+	Thanks.
+
+
+
+
+INT. SEARLES 224 - NIGHT                                                                            
+
+
+Scene Description: 
+Ellie wants to figure out Buster's Love Interest.
+Buster wants to figure out Ellie's Friends.
+
+
+Ellie:
+	Hi there. I am so glad to see you today.
+
+Buster:
+	Hi.
+
+Ellie:
+	Who do you like-like?
+
+Buster:
+	
+
+Buster:
 	Who are you friends with?
 
 Ellie:
-	 I can't believe it.
+	Brad
 
 Ellie:
+	Can't wait to see you again!
+
+Buster:
 	See you soon.
 
-Sadie:
-	See you soon.
+
+
+
+EXT. MAINE STREET - MIDDAY                                                                          
+
+
+Scene Description: 
+Billy Joe Bob wants to figure out Babsie's Love Interest.
+Babsie wants to figure out Billy Joe Bob's Friends.
+
+
+Billy Joe Bob:
+	Hi.
+
+Babsie:
+	Hey! How are you doing? I am so fantastic.
+
+Billy Joe Bob:
+	(Pause).
+
+Billy Joe Bob:
+	Wild.
+
+	
+
+Billy Joe Bob:
+	Who do you like-like?
+
+Babsie:
+	Brad
+
+Babsie:
+	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
+
+Billy Joe Bob:
+	Sure...
+
+Babsie:
+	I just need you to know I am strictly a Moulton light room person.
+
+Billy Joe Bob:
+	Sure.
+
+Babsie:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Billy Joe Bob:
+	Yeah.
+
+Babsie:
+	Who are you friends with?
+
+Billy Joe Bob:
+	Anika
+
+Billy Joe Bob:
+	Okay. Till morrow.
+
+Babsie:
+	Thanks!
 
 
 

@@ -35,14 +35,14 @@ EXTROVERT_GREETINGS = ["Hey! How are you doing? I am so fantastic.", "Hi there. 
 INTROVERT_ADJS = ["fine", "okay", "not bad", "so so"]
 EXTROVERT_ADJS = ["fantastic", "incredible", "stellar", "just the bestest"]
 
-INTROVERT_PUNCT = [".", "..."]
-EXTROVERT_PUNCT = ["!"]
+INTROVERT_PUNCT = [".", ".", "..."]
+EXTROVERT_PUNCT = ["!", "!" , "."]
 
 SUCCESSFUL_INTROVERT_GOODBYE = ["Thanks.", "See you soon.", "Okay. Till morrow."]
-FAILED_INTROVERT_GOODBYE = ["Bye.", "Huh...", "Ya.", "(Pause)."]
+FAILED_INTROVERT_GOODBYE = ["Bye.", "Huh...", "Sure.", "Ya.", "(Pause)."]
 
-SUCCESSFUL_EXTROVERT_GOODBYE = ["Thanks.", "See you soon.", "Okay. Till morrow."]
-FAILED_EXTROVERT_GOODBYE = ["Bye.", "Huh...", "Ya.", "(Pause)."]
+SUCCESSFUL_EXTROVERT_GOODBYE = ["Thanks!", "See you super soon!", "Can't wait to see you again!", "Have a great day!"]
+FAILED_EXTROVERT_GOODBYE = ["Okay, bye.", "Sure.", "Bye-bye", "See you around."]
 
 EXTROVERT_ACK = ["Right", "Okay", "I see", "Well", "Wild", "Fascinating"]
 INTROVERT_ACK = ["Yeah", "Huh", "Hmm", "Sure"]

@@ -1,199 +1,91 @@
                                     * * * Talk of the Quad * * *                                                                   * * * written by A Little Bird * * *
-                                EXT. THE MUSEUM STEPS - MIDDAY                                                                      
+                                INT. SEARLES 224 - MIDDAY                                                                           
 
 
 Scene Description: 
-Babsie wants to figure out Marcos's Hometown.
-Marcos wants to figure out Babsie's Hometown.
-
-
-Babsie:
-	Hi.
-
-Marcos:
-	Hi.
-
-Babsie:
-	Where are you from?
-
-Marcos:
-	LA
-
-Marcos:
-	Where are you from?
-
-Babsie:
-	
-
-Babsie:
-	Okay. Till morrow.
-
-Marcos:
-	Okay. Till morrow.
-
-
-
-
-EXT. THE MUSEUM STEPS - MIDDAY                                                                      
-
-
-Scene Description: 
-Hannah wants to figure out Marcos's Love Interest.
-Marcos wants to figure out Hannah's Hometown.
-
-
-Hannah:
-	Hi.
-
-Marcos:
-	Hi.
-
-Hannah:
-	Who do you like-like?
-
-Marcos:
-	
-
-Marcos:
-	Where are you from?
-
-Hannah:
-	
-
-Hannah:
-	See you soon.
-
-Marcos:
-	See you soon.
-
-
-
-
-EXT. THE QUAD - NIGHT                                                                               
-
-
-Scene Description: 
-Ellie wants to figure out Ro's Hobby.
-Ro wants to figure out Ellie's Love Interest.
+Ellie wants to figure out Buster's Love Interest.
+Buster wants to figure out Ellie's Friends.
 
 
 Ellie:
-	What's up?
+	Hi.
 
-Ro:
-	Hey! How are you doing? I am so fantastic. I'm just the bestest!
+Buster:
+	Hey! How are you doing? I am so fantastic.
 
 Ellie:
 	(Pause).
 
 Ellie:
-	Fascinating!
+	Well.
+
+	 I am sure I do not know what you mean.
+
+Ellie:
+	(Pause).
+
+Ellie:
+	I see.
 
 	
 
 Ellie:
-	What is a hobby of yours?
-
-Ro:
-	cooking
-
-Ro:
-	Who do you like-like?
+	(Pause).
 
 Ellie:
-	 (Pause).
+	Okay.
+
+	
 
 Ellie:
-	See you soon.
+	(Pause).
 
-Ro:
-	See you soon.
+Ellie:
+	Wild.
 
+	
 
-
-
-INT. MOULTON DARK ROOM - MIDDAY                                                                     
-
-
-Scene Description: 
-Billy Joe Bob wants to figure out Buster's Love Interest.
-Buster wants to figure out Billy Joe Bob's Friends.
-
-
-Billy Joe Bob:
-	Hi there. I am so glad to see you today.
-
-Buster:
-	Hi.
-
-Billy Joe Bob:
+Ellie:
 	Who do you like-like?
 
 Buster:
-	Chad
+	Marcos
+
+Buster:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Ellie:
+	Hmm...
+
+Buster:
+	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
+
+Ellie:
+	Hmm...
+
+Buster:
+	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
+
+Ellie:
+	Sure.
+
+Buster:
+	I think I'm going to join the BOC.
+
+Ellie:
+	Yeah.
 
 Buster:
 	Who are you friends with?
 
-Billy Joe Bob:
-	Marcos
-
-Billy Joe Bob:
-	See you soon.
-
-Buster:
-	See you soon.
-
-
-
-
-INT. SEARLES 224 - AFTERNOON                                                                        
-
-
-Scene Description: 
-Marcos wants to figure out Hannah's Love Interest.
-Hannah wants to figure out Marcos's Hometown.
-
-
-Marcos:
-	Hi.
-
-Hannah:
-	Hi.
-
-Marcos:
-	(Pause).
-
-Marcos:
-	Sure...
-
-	 This feels just right.
-
-Marcos:
-	(Pause).
-
-Marcos:
-	Yeah.
-
+Ellie:
 	
 
-Marcos:
-	Who do you like-like?
-
-Hannah:
-	
-
-Hannah:
-	Where are you from?
-
-Marcos:
-	Madrid
-
-Marcos:
+Ellie:
 	Thanks.
 
-Hannah:
-	See you soon.
+Buster:
+	Can't wait to see you again!
 
 
 
@@ -202,201 +94,332 @@ INT. SEARLES 224 - AFTERNOON
 
 
 Scene Description: 
-Marcos wants to figure out Sadie's Love Interest.
-Sadie wants to figure out Marcos's Hometown.
+Ro wants to figure out Billy Joe Bob's Love Interest.
+Billy Joe Bob wants to figure out Ro's Love Interest.
 
+
+Ro:
+	Hi.
+
+Billy Joe Bob:
+	Hi there. I am so glad to see you today.
+
+Ro:
+	Who do you like-like?
+
+Billy Joe Bob:
+	
+
+Billy Joe Bob:
+	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
+
+Ro:
+	Yeah...
+
+Billy Joe Bob:
+	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
+
+Ro:
+	Hmm.
+
+Billy Joe Bob:
+	Have you ever scene the lights shine that bright? This is marvaleous.
+
+Ro:
+	Huh...
+
+Billy Joe Bob:
+	OMG calc today was so hard!
+
+Ro:
+	Sure.
+
+Billy Joe Bob:
+	It's so cold out!
+
+Ro:
+	Hmm.
+
+Billy Joe Bob:
+	I think I'm going to join the BOC.
+
+Ro:
+	Sure.
+
+Billy Joe Bob:
+	I think I'm going to join the BOC.
+
+Ro:
+	Hmm.
+
+Billy Joe Bob:
+	It's so cold out!
+
+Ro:
+	Huh.
+
+Billy Joe Bob:
+	Who do you like-like?
+
+Ro:
+	
+
+Ro:
+	Okay. Till morrow.
+
+Billy Joe Bob:
+	See you super soon!
+
+
+
+
+INT. SEARLES 224 - MORNING                                                                          
+
+
+Scene Description: 
+Babsie wants to figure out Marcos's Love Interest.
+Marcos wants to figure out Babsie's Hometown.
+
+
+Babsie:
+	Hi there. I am so glad to see you today.
 
 Marcos:
 	Hi there. I am so glad to see you today.
 
-Sadie:
-	Hey! How are you doing? I am so fantastic.
-
-Marcos:
-	I just need you to know I am strictly a Moulton light room person.
-
-Sadie:
-	Okay!
-
-Marcos:
-	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
-
-Sadie:
-	Fascinating!
-
-Marcos:
+Babsie:
 	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
 
-Sadie:
-	Okay!
+Marcos:
+	Fascinating!
+
+Babsie:
+	I just need you to know I am strictly a Moulton light room person.
 
 Marcos:
-	Who do you like-like?
+	Okay.
 
-Sadie:
-	 I am sure I do not know what you mean.
+Babsie:
+	Have you ever scene the lights shine that bright? This is marvaleous.
 
-Sadie:
+Marcos:
+	Fascinating!
+
+Babsie:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Marcos:
+	I see.
+
+Babsie:
 	It's so cold out!
 
 Marcos:
-	Right!
+	Okay.
 
-Sadie:
-	Have you ever scene the lights shine that bright? This is marvaleous.
-
-Marcos:
-	Okay!
-
-Sadie:
-	Have you ever scene the lights shine that bright? This is marvaleous.
+Babsie:
+	I just need you to know I am strictly a Moulton light room person.
 
 Marcos:
+	Well.
+
+Babsie:
+	I just need you to know I am strictly a Moulton light room person.
+
+Marcos:
+	Okay.
+
+Babsie:
+	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
+
+Marcos:
+	Wild.
+
+Babsie:
+	Who do you like-like?
+
+Marcos:
+	Anika
+
+Marcos:
+	Where are you from?
+
+Babsie:
+	Paris
+
+Babsie:
+	Thanks!
+
+Marcos:
+	Can't wait to see you again!
+
+
+
+
+INT. SEARLES 224 - NIGHT                                                                            
+
+
+Scene Description: 
+Buster wants to figure out Hercules's Friends.
+Hercules wants to figure out Buster's Friends.
+
+
+Buster:
+	What's up?
+
+Hercules:
+	Hey! How are you doing? I am so fantastic. I'm stellar.
+
+Buster:
+	Who are you friends with?
+
+Hercules:
+	Anika
+
+Hercules:
+	Who are you friends with?
+
+Buster:
+	Spencer
+
+Buster:
+	Okay. Till morrow.
+
+Hercules:
+	Can't wait to see you again!
+
+
+
+
+INT. LADD HOUSE - AFTERNOON                                                                         
+
+
+Scene Description: 
+Babsie wants to figure out Ro's Friends.
+Ro wants to figure out Babsie's Friends.
+
+
+Babsie:
+	Hey! How are you doing? I am so fantastic.
+
+Ro:
+	Hey! How are you doing? I am so fantastic.
+
+Babsie:
+	Who are you friends with?
+
+Ro:
+	
+
+Ro:
+	OMG calc today was so hard!
+
+Babsie:
+	Fascinating.
+
+Ro:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Babsie:
+	I see.
+
+Ro:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Babsie:
+	Wild.
+
+Ro:
+	I think I'm going to join the BOC.
+
+Babsie:
 	Fascinating!
 
-Sadie:
-	Have you ever scene the lights shine that bright? This is marvaleous.
-
-Marcos:
-	Wild!
-
-Sadie:
+Ro:
 	God the squirrels just get braver every year.
 
-Marcos:
+Babsie:
+	Okay.
+
+Ro:
+	I just need you to know I am strictly a Moulton light room person.
+
+Babsie:
 	I see!
 
-Sadie:
+Ro:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Babsie:
+	Okay!
+
+Ro:
+	Who are you friends with?
+
+Babsie:
+	Marcos
+
+Babsie:
+	Have a great day!
+
+Ro:
+	Can't wait to see you again!
+
+
+
+
+EXT. MAINE STREET - NIGHT                                                                           
+
+
+Scene Description: 
+Buster wants to figure out Marcos's Love Interest.
+Marcos wants to figure out Buster's Hometown.
+
+
+Buster:
+	Hi there. I am so glad to see you today.
+
+Marcos:
+	What's up?
+
+Marcos:
+	I'm fantastic!
+
+Buster:
 	OMG calc today was so hard!
 
 Marcos:
-	Fascinating!
+	Huh.
 
-Sadie:
-	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
-
-Marcos:
-	Well!
-
-Sadie:
-	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
-
-Marcos:
-	Fascinating!
-
-Sadie:
-	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
-
-Marcos:
-	Well!
-
-Sadie:
-	God the squirrels just get braver every year.
-
-Marcos:
-	Right!
-
-Sadie:
-	I just need you to know I am strictly a Moulton light room person.
-
-Marcos:
-	Fascinating!
-
-Sadie:
-	I think I'm going to join the BOC.
-
-Marcos:
-	Wild!
-
-Sadie:
-	Have you ever scene the lights shine that bright? This is marvaleous.
-
-Marcos:
-	I see!
-
-Sadie:
-	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
-
-Marcos:
-	Right!
-
-Sadie:
-	Have you ever scene the lights shine that bright? This is marvaleous.
-
-Marcos:
-	Okay!
-
-Sadie:
+Buster:
 	It's so cold out!
 
 Marcos:
-	Right!
+	Hmm.
 
-Sadie:
+Buster:
 	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
 
 Marcos:
-	Well!
+	Huh.
 
-Sadie:
-	God the squirrels just get braver every year.
-
-Marcos:
-	Well!
-
-Sadie:
-	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+Buster:
+	Who do you like-like?
 
 Marcos:
-	Right!
-
-Sadie:
-	God the squirrels just get braver every year.
+	Ethan
 
 Marcos:
-	Right!
-
-Sadie:
-	It's so cold out!
-
-Marcos:
-	Right!
-
-Sadie:
-	It's so cold out!
-
-Marcos:
-	I see!
-
-Sadie:
-	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
-
-Marcos:
-	Wild!
-
-Sadie:
-	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
-
-Marcos:
-	Okay!
-
-Sadie:
-	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
-
-Marcos:
-	Right!
-
-Sadie:
 	Where are you from?
 
-Marcos:
-	
+Buster:
+	Austin
+
+Buster:
+	Thanks!
 
 Marcos:
-	See you soon.
-
-Sadie:
-	Thanks.
+	Okay. Till morrow.
 
 
 

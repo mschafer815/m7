@@ -1,311 +1,5 @@
                                     * * * Talk of the Quad * * *                                                                   * * * written by A Little Bird * * *
-                                INT. LADD HOUSE - MIDDAY                                                                            
-
-
-Scene Description: 
-Babsie wants to figure out Billy Joe Bob's Hometown.
-Billy Joe Bob wants to figure out Babsie's Hometown.
-
-
-Babsie:
-	Hi there. I am so glad to see you today.
-
-Billy Joe Bob:
-	Hi there. I am so glad to see you today.
-
-Babsie:
-	Have you ever scene the lights shine that bright? This is marvaleous.
-
-Billy Joe Bob:
-	Fascinating!
-
-Babsie:
-	Where are you from?
-
-Billy Joe Bob:
-	
-
-Billy Joe Bob:
-	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
-
-Babsie:
-	Fascinating!
-
-Billy Joe Bob:
-	God the squirrels just get braver every year.
-
-Babsie:
-	Well!
-
-Billy Joe Bob:
-	It's so cold out!
-
-Babsie:
-	Wild!
-
-Billy Joe Bob:
-	I just need you to know I am strictly a Moulton light room person.
-
-Babsie:
-	Fascinating!
-
-Billy Joe Bob:
-	OMG calc today was so hard!
-
-Babsie:
-	Well!
-
-Billy Joe Bob:
-	It's so cold out!
-
-Babsie:
-	Okay!
-
-Billy Joe Bob:
-	OMG calc today was so hard!
-
-Babsie:
-	Okay!
-
-Billy Joe Bob:
-	I think I'm going to join the BOC.
-
-Babsie:
-	Okay!
-
-Billy Joe Bob:
-	Where are you from?
-
-Babsie:
-	
-
-Babsie:
-	See you soon.
-
-Billy Joe Bob:
-	See you soon.
-
-
-
-
-EXT. FARELY - AFTERNOON                                                                             
-
-
-Scene Description: 
-Hercules wants to figure out Buster's Hometown.
-Buster wants to figure out Hercules's Hometown.
-
-
-Hercules:
-	What's up?
-
-Buster:
-	Hey! How are you doing? I am so fantastic. I'm just the bestest!
-
-Hercules:
-	Where are you from?
-
-Buster:
-	New York
-
-Buster:
-	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
-
-Hercules:
-	Huh...
-
-Buster:
-	Where are you from?
-
-Hercules:
-	
-
-Hercules:
-	See you soon.
-
-Buster:
-	Thanks.
-
-
-
-
-EXT. THE MUSEUM STEPS - NIGHT                                                                       
-
-
-Scene Description: 
-Ro wants to figure out Marcos's Hobby.
-Marcos wants to figure out Ro's Love Interest.
-
-
-Ro:
-	Hey! How are you doing? I am so fantastic.
-
-Marcos:
-	What's up?
-
-Marcos:
-	I'm fantastic!
-
-Ro:
-	OMG calc today was so hard!
-
-Marcos:
-	Sure...
-
-Ro:
-	I just need you to know I am strictly a Moulton light room person.
-
-Marcos:
-	Sure...
-
-Ro:
-	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
-
-Marcos:
-	Yeah...
-
-Ro:
-	What is a hobby of yours?
-
-Marcos:
-	
-
-Marcos:
-	(Pause).
-
-Marcos:
-	Well!
-
-	 I am sure I do not know what you mean.
-
-Marcos:
-	Who do you like-like?
-
-Ro:
-	 What a time to be alive.
-
-Ro:
-	Okay. Till morrow.
-
-Marcos:
-	Okay. Till morrow.
-
-
-
-
-EXT. FARELY - NIGHT                                                                                 
-
-
-Scene Description: 
-Hannah wants to figure out Ro's Hometown.
-Ro wants to figure out Hannah's Friends.
-
-
-Hannah:
-	Hi there. I am so glad to see you today.
-
-Ro:
-	Hi there. I am so glad to see you today.
-
-Hannah:
-	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
-
-Ro:
-	Wild!
-
-Hannah:
-	Where are you from?
-
-Ro:
-	LA
-
-Ro:
-	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
-
-Hannah:
-	I see!
-
-Ro:
-	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
-
-Hannah:
-	Well!
-
-Ro:
-	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
-
-Hannah:
-	Well!
-
-Ro:
-	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
-
-Hannah:
-	Okay!
-
-Ro:
-	I think I'm going to join the BOC.
-
-Hannah:
-	I see!
-
-Ro:
-	Who are you friends with?
-
-Hannah:
-	
-
-Hannah:
-	See you soon.
-
-Ro:
-	See you soon.
-
-
-
-
-EXT. THE MUSEUM STEPS - NIGHT                                                                       
-
-
-Scene Description: 
-Ro wants to figure out Buster's Love Interest.
-Buster wants to figure out Ro's Hometown.
-
-
-Ro:
-	Hey! How are you doing? I am so fantastic.
-
-Buster:
-	Hi there. I am so glad to see you today.
-
-Ro:
-	I just need you to know I am strictly a Moulton light room person.
-
-Buster:
-	I see!
-
-Ro:
-	Who do you like-like?
-
-Buster:
-	Amanda
-
-Buster:
-	Where are you from?
-
-Ro:
-	Frankfort
-
-Ro:
-	See you soon.
-
-Buster:
-	Thanks.
-
-
-
-
-EXT. FARELY - MIDDAY                                                                                
+                                EXT. FARELY - NIGHT                                                                                 
 
 
 Scene Description: 
@@ -314,30 +8,517 @@ Buster wants to figure out Sadie's Friends.
 
 
 Sadie:
-	Hi.
+	Hey! How are you doing? I am so fantastic.
 
 Buster:
-	What's up?
+	Hi there. I am so glad to see you today.
+
+Sadie:
+	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
 
 Buster:
-	I'm okay.
+	Well!
+
+Sadie:
+	God the squirrels just get braver every year.
+
+Buster:
+	Fascinating.
+
+Sadie:
+	It's so cold out!
+
+Buster:
+	I see!
 
 Sadie:
 	Where are you from?
 
 Buster:
-	
+	Singapore
+
+Buster:
+	God the squirrels just get braver every year.
+
+Sadie:
+	Right.
+
+Buster:
+	It's so cold out!
+
+Sadie:
+	I see!
+
+Buster:
+	God the squirrels just get braver every year.
+
+Sadie:
+	Fascinating!
 
 Buster:
 	Who are you friends with?
 
 Sadie:
+	Marcos
+
+Sadie:
+	Thanks!
+
+Buster:
+	Thanks!
+
+
+
+
+EXT. FARELY - AFTERNOON                                                                             
+
+
+Scene Description: 
+Sadie wants to figure out Marcos's Hobby.
+Marcos wants to figure out Sadie's Hometown.
+
+
+Sadie:
+	What's up?
+
+Marcos:
+	What's up? I'm not bad.
+
+Sadie:
+	(Pause).
+
+Sadie:
+	Hmm...
+
 	
+
+Sadie:
+	What is a hobby of yours?
+
+Marcos:
+	 This feels just right.
+
+Marcos:
+	(Pause).
+
+Marcos:
+	Huh.
+
+	 What an interesting concept.
+
+Marcos:
+	(Pause).
+
+Marcos:
+	Sure.
+
+	
+
+Marcos:
+	Where are you from?
+
+Sadie:
+	Singapore
 
 Sadie:
 	Okay. Till morrow.
 
+Marcos:
+	Thanks.
+
+
+
+
+INT. MEMORIAL HALL - NIGHT                                                                          
+
+
+Scene Description: 
+Hercules wants to figure out Buster's Hobby.
+Buster wants to figure out Hercules's Hobby.
+
+
+Hercules:
+	Hey! How are you doing? I am so fantastic.
+
 Buster:
+	Hey! How are you doing? I am so fantastic.
+
+Hercules:
+	God the squirrels just get braver every year.
+
+Buster:
+	I see!
+
+Hercules:
+	I just need you to know I am strictly a Moulton light room person.
+
+Buster:
+	Fascinating.
+
+Hercules:
+	God the squirrels just get braver every year.
+
+Buster:
+	Right.
+
+Hercules:
+	OMG calc today was so hard!
+
+Buster:
+	Wild!
+
+Hercules:
+	OMG calc today was so hard!
+
+Buster:
+	Wild!
+
+Hercules:
+	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
+
+Buster:
+	Well!
+
+Hercules:
+	It's so cold out!
+
+Buster:
+	Okay!
+
+Hercules:
+	OMG calc today was so hard!
+
+Buster:
+	I see.
+
+Hercules:
+	What is a hobby of yours?
+
+Buster:
+	
+
+Buster:
+	What is a hobby of yours?
+
+Hercules:
+	
+
+Hercules:
+	Can't wait to see you again!
+
+Buster:
+	Can't wait to see you again!
+
+
+
+
+EXT. THE QUAD - AFTERNOON                                                                           
+
+
+Scene Description: 
+Ro wants to figure out Hercules's Hometown.
+Hercules wants to figure out Ro's Friends.
+
+
+Ro:
+	Hi there. I am so glad to see you today.
+
+Hercules:
+	What's up?
+
+Hercules:
+	I'm stellar.
+
+Ro:
+	I think I'm going to join the BOC.
+
+Hercules:
+	Yeah...
+
+Ro:
+	I think I'm going to join the BOC.
+
+Hercules:
+	Hmm.
+
+Ro:
+	God the squirrels just get braver every year.
+
+Hercules:
+	Yeah.
+
+Ro:
+	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
+
+Hercules:
+	Huh.
+
+Ro:
+	Where are you from?
+
+Hercules:
+	New York
+
+Hercules:
+	Who are you friends with?
+
+Ro:
+	Maria
+
+Ro:
+	Have a great day!
+
+Hercules:
+	Thanks.
+
+
+
+
+EXT. FARELY - NIGHT                                                                                 
+
+
+Scene Description: 
+Sadie wants to figure out Babsie's Friends.
+Babsie wants to figure out Sadie's Hometown.
+
+
+Sadie:
+	Hi there. I am so glad to see you today.
+
+Babsie:
+	Hi.
+
+Sadie:
+	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
+
+Babsie:
+	Huh...
+
+Sadie:
+	Who are you friends with?
+
+Babsie:
+	Amanda
+
+Babsie:
+	Where are you from?
+
+Sadie:
+	LA
+
+Sadie:
+	Can't wait to see you again!
+
+Babsie:
+	See you soon.
+
+
+
+
+INT. MOULTON DARK ROOM - NIGHT                                                                      
+
+
+Scene Description: 
+Marcos wants to figure out Sadie's Friends.
+Sadie wants to figure out Marcos's Hobby.
+
+
+Marcos:
+	What's up?
+
+Sadie:
+	Hi there. I am so glad to see you today. I'm fantastic!
+
+Marcos:
+	(Pause).
+
+Marcos:
+	Right!
+
+	
+
+Marcos:
+	Who are you friends with?
+
+Sadie:
+	Amanda
+
+Sadie:
+	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
+
+Marcos:
+	Sure.
+
+Sadie:
+	OMG calc today was so hard!
+
+Marcos:
+	Yeah.
+
+Sadie:
+	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
+
+Marcos:
+	Huh.
+
+Sadie:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Marcos:
+	Hmm.
+
+Sadie:
+	I just need you to know I am strictly a Moulton light room person.
+
+Marcos:
+	Hmm.
+
+Sadie:
+	What is a hobby of yours?
+
+Marcos:
+	
+
+Marcos:
+	Okay. Till morrow.
+
+Sadie:
+	Have a great day!
+
+
+
+
+INT. HL BASEMENT - MIDDAY                                                                           
+
+
+Scene Description: 
+Ro wants to figure out Billy Joe Bob's Friends.
+Billy Joe Bob wants to figure out Ro's Love Interest.
+
+
+Ro:
+	Hey! How are you doing? I am so fantastic.
+
+Billy Joe Bob:
+	Hi there. I am so glad to see you today.
+
+Ro:
+	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
+
+Billy Joe Bob:
+	Well.
+
+Ro:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Billy Joe Bob:
+	I see.
+
+Ro:
+	Who are you friends with?
+
+Billy Joe Bob:
+	
+
+Billy Joe Bob:
+	God the squirrels just get braver every year.
+
+Ro:
+	Right!
+
+Billy Joe Bob:
+	I just need you to know I am strictly a Moulton light room person.
+
+Ro:
+	Right!
+
+Billy Joe Bob:
+	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
+
+Ro:
+	Okay!
+
+Billy Joe Bob:
+	I'm so glad we took that first year seminar together. Can you believe its been 3 years?!
+
+Ro:
+	Okay!
+
+Billy Joe Bob:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Ro:
+	Fascinating!
+
+Billy Joe Bob:
+	OMG calc today was so hard!
+
+Ro:
+	Well!
+
+Billy Joe Bob:
+	God the squirrels just get braver every year.
+
+Ro:
+	Right!
+
+Billy Joe Bob:
+	I have never had spaghetti past midnight. I know that is super weird to say, but I mean wow! Who doesn't love a good bowl of pasta?!
+
+Ro:
+	Right!
+
+Billy Joe Bob:
+	Who do you like-like?
+
+Ro:
+	
+
+Ro:
+	Can't wait to see you again!
+
+Billy Joe Bob:
+	See you super soon!
+
+
+
+
+EXT. THE QUAD - AFTERNOON                                                                           
+
+
+Scene Description: 
+Marcos wants to figure out Hercules's Hobby.
+Hercules wants to figure out Marcos's Hometown.
+
+
+Marcos:
+	Hey! How are you doing? I am so fantastic.
+
+Hercules:
+	Hi.
+
+Marcos:
+	So this one time I was walking to the beach and I saw this shell and I thought it was beautiful. Do you like shells?
+
+Hercules:
+	Huh.
+
+Marcos:
+	What is a hobby of yours?
+
+Hercules:
+	
+
+Hercules:
+	Where are you from?
+
+Marcos:
+	
+
+Marcos:
+	Can't wait to see you again!
+
+Hercules:
 	Thanks.
 
 

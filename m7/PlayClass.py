@@ -14,7 +14,7 @@ class Play:
         ''' 
         Input: none
         Output: none
-        Purpose: This initializes objective with name, characterList, score and text.'''  
+        Purpose: This initializes play object with name, characterList, score and text.'''  
         self.name = name
         self.characterList = []
         self.score = 0
